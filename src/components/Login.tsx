@@ -27,7 +27,7 @@ export const Login = ({ onLogin }: LoginProps) => {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     
-    if (username === "gowrasiva" && password === "Welcome@123") {
+    if (username === "sivagowra" && password === "Welcome@123") {
       if (!course) {
         toast.error("Please select a course");
         return;
