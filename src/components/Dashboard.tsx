@@ -26,11 +26,11 @@ const initializeVideos = () => {
     const sampleVideos: Video[] = [
       {
         id: 1,
-        title: "Introduction to the Course",
+        title: "Introduction to the Courses",
         description: "Welcome to the course! Learn what you'll master.",
         thumbnail: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=225&fit=crop",
-        duration: "5:30",
-        url: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        duration: "1:00",
+        url: "https://drive.google.com/file/d/1ZFmHEBWe0dXpgyXNpiIxHR73cEVwjSrt/view",
       },
       {
         id: 2,
